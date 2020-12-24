@@ -1,0 +1,41 @@
+Selector{
+	Property:value;
+}
+
+body{
+	background-image: url(Kobe.jpg) ;
+	background-size: cover;
+	cursor: pointer;
+	font-family: sans-serif;
+}
+
+
+#div1{
+	background: rgba(169, 84, 134,0.2) ;
+}
+
+.title{
+	color: red;
+	text-align: center;
+	border: 5px solid rgb(169, 84, 134);
+	font-size: 32px;
+}
+
+p{
+	line-height: 22.4px;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+}
+img{
+	float: left;
+}
